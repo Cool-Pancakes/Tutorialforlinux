@@ -7,5 +7,6 @@ elif [[ $ans1 -eq 2 ]]
 then
 echo "ee"
 else [[ $ans1 -eq 3 ]]
-echo "vv"
+echo "OHIO MODE ACTIVATE"
+echo "nrrrrmrmrmrmrmrmmmmmmp"
 fi
